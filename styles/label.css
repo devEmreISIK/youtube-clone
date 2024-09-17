@@ -1,0 +1,26 @@
+.label {
+  margin: 5px;
+  background-color: rgb(242, 242,242, 1);
+  border-radius: 6px;
+}
+
+.label-flex {
+  display: flex;
+  flex-direction: row;
+  height: 30px;
+  align-items: center;
+  margin-bottom: 35px;
+  margin-top: -10px;
+}
+
+.label p {
+  margin: 5px 10px 5px 10px;
+  font-size: 15px;
+  font-weight: 450;
+  padding: 1px;
+}
+
+.all-label {
+  background-color: black;
+  color: white;
+}
